@@ -7,8 +7,8 @@ namespace java me.eax.examples.thrift.game
 // service Ololo { ... }
 
 enum Weapon {
-    SWORD = 1
-    BOW = 2
+    Sword = 1
+    Bow = 2
 }
 
 struct WarriorInfo {
